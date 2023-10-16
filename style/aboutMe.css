@@ -1,4 +1,13 @@
-.main-frame {
-  width: 100vw;
-  height: 100vh;
+.card .card-icon-frame {
+  display: none !important;
+}
+.card .des {
+  padding: 2rem !important;
+}
+.card .des p {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.card .des a {
+  padding-bottom: 1rem;
 }/*# sourceMappingURL=aboutMe.css.map */
